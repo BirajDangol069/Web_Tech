@@ -1,0 +1,12 @@
+div{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(6, 218, 13);
+}
+#box2{
+    margin-left: 200px;
+  margin-top: -150px;
+  background-color: rgb(26, 175, 234);
+  color: azure;
+
+}
